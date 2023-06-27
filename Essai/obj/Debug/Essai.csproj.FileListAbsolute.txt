@@ -5,3 +5,10 @@ C:\Users\pc\source\repos\Essai\Essai\obj\Debug\Essai.csproj.AssemblyReference.ca
 C:\Users\pc\source\repos\Essai\Essai\obj\Debug\Essai.csproj.CoreCompileInputs.cache
 C:\Users\pc\source\repos\Essai\Essai\obj\Debug\Essai.exe
 C:\Users\pc\source\repos\Essai\Essai\obj\Debug\Essai.pdb
+C:\Users\pc\source\repos\Essai\TestGit\Essai\bin\Debug\Essai.exe.config
+C:\Users\pc\source\repos\Essai\TestGit\Essai\bin\Debug\Essai.exe
+C:\Users\pc\source\repos\Essai\TestGit\Essai\bin\Debug\Essai.pdb
+C:\Users\pc\source\repos\Essai\TestGit\Essai\obj\Debug\Essai.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Essai\TestGit\Essai\obj\Debug\Essai.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Essai\TestGit\Essai\obj\Debug\Essai.exe
+C:\Users\pc\source\repos\Essai\TestGit\Essai\obj\Debug\Essai.pdb
